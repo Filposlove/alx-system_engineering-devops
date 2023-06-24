@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir .html
+cp -u *.html ..
