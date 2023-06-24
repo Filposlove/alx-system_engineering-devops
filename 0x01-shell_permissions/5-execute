@@ -1,2 +1,2 @@
 #!/bin/bash
-605 hello
+su --x hello
