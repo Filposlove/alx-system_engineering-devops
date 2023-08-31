@@ -1,2 +1,2 @@
 #!/bin/bash
-my world blinkenlight.ln
+telnet towel.blinkenlight.ln
