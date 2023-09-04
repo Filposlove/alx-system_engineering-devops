@@ -1,2 +1,2 @@
-#!/bin/babsh
-echo "hello wold"
+#!/bin/bash
+echo "Hello, Wold"
